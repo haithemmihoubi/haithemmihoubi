@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?raw=true" width="500" height="320" />
-<h3 align="center">A passionate frontend,Mobile developer from Tunisia</h3>
+<h3 align="center">A passionate frontend,backend,Mobile developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haithemihoubi&label=Profile%20views&color=0e75b6&style=flat" alt="haithemihoubi" /> </p>
 
