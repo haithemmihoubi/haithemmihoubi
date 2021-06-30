@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haithemihoubi" alt="haithemihoubi" /></a> </p>
 
-- 🔭 I’m currently working Studying **Computer Science**
+- 🔭 I’m currently Studying **Computer Science and data analysis**
 
-- 🌱 I’m currently learning **Flutter,dart,reactJs ,javascript,java**
+- 🌱 I’m currently learning **Flutter,dart,vue js ,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software **
 
 - 👯 I’m looking to collaborate **in projects**
 
 - 👨‍💻 All of my projects are available at [http://github.com/haithemmihoubi/](http://github.com/haithemmihoubi/)
 
-- 💬 Ask me about **JAVA,HTML5,CSS,JAVASCRIPT,Flutter,DART,PHP,MYSQL**
+- 💬 Ask me about **Flutter,dart,vue js ,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Oracle database,Azure Data Studio ,Excel , Microsoft Power BI ,Tableau Software **
 
 - 📫 How to reach me **haithemmihoubi1234@gmail.com**
 
