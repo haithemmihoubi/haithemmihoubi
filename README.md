@@ -1,5 +1,6 @@
 # haithemmihoubi
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
+![image](https://user-images.githubusercontent.com/64318421/124201385-cef23f80-dacf-11eb-9aa0-f83fdf4b4b68.png)
 
 <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/64318421/124200574-99e4ed80-dacd-11eb-978c-38c51d3ee3a6.png)" width="500" height="320" />
 <h3 align="center">A passionate frontend,backend,Mobile developer from Tunisia</h3>
