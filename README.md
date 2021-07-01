@@ -1,7 +1,7 @@
 # haithemmihoubi
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/64318421/124201385-cef23f80-dacf-11eb-9aa0-f83fdf4b4b68.png" alt="haithemihoubi" width="30%" height="30%" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/64318421/124201385-cef23f80-dacf-11eb-9aa0-f83fdf4b4b68.png" alt="haithemihoubi" width="30%" height="30%" /> </p>
 
 
 
