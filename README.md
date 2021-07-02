@@ -16,9 +16,7 @@
 
 
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/64318421/124201967-496f8f00-dad1-11eb-9d11-e84ea39b99a0.jpg" alt="haithemihoubi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haithemihoubi" alt="haithemihoubi" width="30%" /></a> </p>
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
 
