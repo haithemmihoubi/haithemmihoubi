@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haithem-mihoubi-773b01191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/haithem-mihoubi-773b01191/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haithem-mihoubi-773b01191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/haithem-mihoubi-773b01191/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mihoubi.haithem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mihoubi.haithem" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@haithemmihoubi1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@haithemmihoubi1234" height="30" width="40" /></a>
 </p>
