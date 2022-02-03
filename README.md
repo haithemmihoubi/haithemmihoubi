@@ -43,13 +43,13 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=haithemmihoubi&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithemmihoubi&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=haithemmihoubi&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithemmihoubi&theme=radical&hide_border=true" />
 
 </p>
 <br>
 
-![haithem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=haithemmihoubi&custom_title=Haithem%20Mihoubi%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![haithem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=haithemmihoubi&custom_title=Haithem%20Mihoubi%27s%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 
