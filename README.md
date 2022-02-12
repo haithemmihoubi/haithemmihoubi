@@ -1,26 +1,19 @@
 
 
 
-
-
-
-# haithemmihoubi
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
-
-
-
-<h3 align="center">A passionate frontend,backend,Mobile developer from Tunisia</h3>
+<h3 align="center"> Developer from Tunisia</h3>
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
 
-- 🌱 I’m currently learning **Flutter,dart,vue js ,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software **
+- 🌱 I’m currently learning **Flutter,dart,vue js ,Angular,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software ,Azure ,REST APIS,Firebase**
 
 - 👯 I’m looking to collaborate **in projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haithemmihoubi?tab=repositories](http://github.com/haithemmihoubi/)
+- 👨‍💻 All of my projects are available here in github check them out.
 
-- 💬 Ask me about **Flutter,dart,vue js ,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Oracle database,Azure Data Studio ,Excel , Microsoft Power BI ,Tableau Software **
+- 💬 Ask me about **Flutter,dart,vue js ,Angular,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software ,Azure ,REST APIS,Firebase **
 
 - 📫 How to reach me **haithemmihoubi1234@gmail.com**
 
@@ -30,7 +23,6 @@
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=haithemmihoubi&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithemmihoubi&theme=radical&hide_border=true" />
-
 </p>
 <br>
 
@@ -43,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
   
-
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-haithemmihoubi1234@gmil.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:haithemmihoubi1234@gmail.com)](mailto:haithemmihoubi1234@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-haithemMihoubi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haithem-mihoubi-773b01191/)](https://www.linkedin.com/in/haithem-mihoubi-773b01191/)
