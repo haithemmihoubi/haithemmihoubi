@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
 <h3 align="center"> Developer from Tunisia</h3>
-![Octocat](https://user-images.githubusercontent.com/64318421/156898929-98a39081-fc60-4df9-87f4-e9eed2ea52a6.png)
 
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
