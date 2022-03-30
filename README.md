@@ -53,45 +53,15 @@
  
 </p>
 
-## :purple_heart: Open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/voidcosmos/angular-communities"><b>Angular Communities</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/voidcosmos/npkill"><b>NPKill</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/voidcosmos/npkill?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/voidcosmos/npkill?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/voidcosmos/npkill?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/voidcosmos/npkill?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-		<tr>
-			<td><a href="https://github.com/puntotech/rxjs-docu"><b>RxJS Documentación en Castellano</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/puntotech/rxjs-docu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/puntotech/rxjs-docu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/puntotech/rxjs-docu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/puntotech/rxjs-docu?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 
 
+
+
+
+<a href="https://github.com/haithemmihoubi/haithemmihoubi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithemmihoubi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
