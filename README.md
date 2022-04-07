@@ -56,6 +56,7 @@
 
 
 
+[![Git Stars](https://git-stars.com/share/embed/haithemmihoubi.svg)](https://git-stars.com/user/haithemmihoubi)
 
 
 
@@ -78,7 +79,6 @@
 <br>
 
 ![haithem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=haithemmihoubi&custom_title=Haithem%20Mihoubi%27s%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
