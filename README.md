@@ -4,7 +4,14 @@
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
 <h3 align="center"> Developer from Tunisia</h3>
-
+<h3 align="center"><br>
+  <a href="https://github.com/haithemmihoubi" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/haithemmihoubi?label=Github%20followers&style=for-the-badge">
+  </a> <br>
+  <a href="https://github.com/haithemmihoubi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=haithemmihoubi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+  </h3> 
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
 
@@ -80,6 +87,20 @@
 
 
 ## My Statistics
+
+
+
+
+      
+               
+
+
+
+
+
+
+
+
 
 <br/>
 <p align="left">
