@@ -55,15 +55,25 @@
 </p>
 
 
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+     
+</p>
+
+<br/>
 
 [![Git Stars](https://git-stars.com/share/embed/haithemmihoubi.svg)](https://git-stars.com/user/haithemmihoubi)
 
 
 
-
-<a href="https://github.com/haithemmihoubi/haithemmihoubi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithemmihoubi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
 
