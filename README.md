@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
 
-- 🌱 I’m currently learning **Flutter,dart,vue js ,Angular,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software ,Azure ,REST APIS,Firebase**
+- 🌱 I’m currently learning **Flutter,dart,vue js ,Reactjs,laravel,javascript,Azure,Firebase**
 
 - 👯 I’m looking to collaborate **in projects**
 
 - 👨‍💻 All of my projects are available here in github check them out.
 
-- 💬 Ask me about **Flutter,dart,vue js ,Angular,laravel,javascript,java, Microsoft SQL Serverr | microsoft sql server management studio,Azure Data Studio ,Excel , Microsoft Power BI Tableau Software ,Azure ,REST APIS,Firebase **
+- 💬 Ask me about **Flutter,dart,AWS,NestJs,DevOps **
 
 - 📫 How to reach me **haithemmihoubi1234@gmail.com**
 
