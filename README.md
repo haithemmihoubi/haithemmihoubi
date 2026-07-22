@@ -1,111 +1,338 @@
-<h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
-<h3 align="center">💻 Fullstack Developer | Spring Boot & Angular Specialist | Cloud & DevOps Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Spring+Boot+%7C+Angular;Microservices+%7C+Cloud+%7C+DevOps;Building+Scalable+Systems+🚀" alt="Typing SVG" />
+# 👋 Hi, I'm Haithem Mihoubi
+
+### Senior Full-Stack Java Developer • Spring Boot • Angular • Cloud • DevOps • System Design
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Distributed+Systems;Spring+Boot+Microservices+Developer;Cloud+%7C+DevOps+%7C+System+Design;Java+%7C+Angular+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New+🚀"/>
+
+<img src="https://komarev.com/ghpvc/?username=haithemmihoubi&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a software engineer from **Tunisia 🇹🇳** passionate about building scalable enterprise applications and cloud-native architectures.
+
+I enjoy designing distributed systems, optimizing backend performance, automating deployments, and solving complex engineering problems.
+
+Current interests include:
+
+- ☕ Java & Spring Ecosystem
+- 🏗 Microservices Architecture
+- ☁ Cloud Computing
+- ⚙ DevOps & Kubernetes
+- 🚀 CI/CD Automation
+- 🔐 Application Security
+- 📊 Observability
+- 🤖 AI Engineering
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,dart,html,css,bash"/>
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge&logo=cloud" />
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue?style=for-the-badge&logo=githubactions" />
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+
+</p>
+
+- Spring Boot
+- Spring Security
+- Spring Cloud
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- OpenAPI
+- OAuth2
+- JWT
+- Microservices
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,flutter,react"/>
+
+</p>
+
+- Angular
+- RxJS
+- NgRx
+- Material
+- Responsive UI
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+---
+
+## DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,aws,azure,grafana,prometheus"/>
+
 </p>
 
 ---
 
-## 🔭 About Me
-- 🌍 Based in Tunisia, working globally on **enterprise & cloud-native applications**
-- 💡 4+ years of experience in **backend & frontend development**
-- 🚀 Expert in **Spring Boot, Angular, Microservices, Kafka, Redis**
-- ☁️ Skilled in **AWS, Azure, Docker, Kubernetes, CI/CD automation**
-- 📫 Reach me: **haithem.mihoubi.pro@gmail.com**
-- 🌐 Portfolio & Blog: [haithemmihoubi.hashnode.dev](https://haithemmihoubi.hashnode.dev)
+## Messaging
+
+- Apache Kafka
+- RabbitMQ
 
 ---
 
-## 🛠 Tech Stack
-**Languages**: Java, TypeScript, JavaScript, SQL  
-**Backend**: Spring Boot, Spring Cloud, Spring Security, JPA, Hibernate, REST APIs, Microservices  
-**Frontend**: Angular, RxJS, NgRx, HTML5, CSS3  
-**Messaging & Caching**: Apache Kafka, RabbitMQ, Redis, Caffeine  
-**Databases**: PostgreSQL, MySQL, MongoDB  
-**Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform  
-**Architecture**: DDD, Event-Driven Architecture, CQRS, REST, OpenAPI/Swagger  
-**Monitoring**: ELK Stack, Grafana, Prometheus  
-**Security**: OAuth2, JWT, RBAC, API Gateway, OWASP standards  
-**Tools**: Git, GitHub, GitLab, Jira, Confluence, SonarQube, Nexus, TestContainers  
+## Architecture
+
+✔ Microservices
+
+✔ Event Driven
+
+✔ REST APIs
+
+✔ Domain Driven Design
+
+✔ CQRS
+
+✔ Clean Architecture
+
+✔ Hexagonal Architecture
 
 ---
 
-## 💼 Work Experience
+# 💼 Professional Experience
 
-### 🚖 Senior Fullstack Developer — Logawin (2023–Present)
-- Designed & implemented **Spring Boot microservices** serving thousands of daily users  
-- Built services: User Management, Ride Booking, Payments, Geolocation, Real-time Notifications  
-- Developed responsive **Angular SPA** with real-time ride tracking & interactive maps  
-- Integrated secure payment gateway with fraud detection  
-- Established CI/CD pipelines with automated testing & blue-green deployments  
-- Mentored junior developers and led architectural decisions  
+## Full Stack Developer
 
-### 💳 Fullstack Developer — Value Digital Services (2022–2023)
-- Developed enterprise banking application for BIAT Bank with **99.9% uptime**  
-- Built secure REST APIs with encryption & audit trails  
-- Implemented **Kafka event-driven architecture** for high-volume transactions  
-- Created Angular dashboards with dynamic reporting & RBAC  
+### Logawin
 
-### 🌐 Software Developer — GSM Guide (2020–2021)
-- Built full-stack web apps using **Laravel + Angular**  
-- Developed cross-platform mobile apps with **Flutter**  
-- Managed cloud deployments & performance tuning  
+- Java Spring Boot Microservices
+- Angular Enterprise Applications
+- Real-time Geolocation
+- Payment Integration
+- CI/CD Automation
+- Docker Deployments
 
 ---
 
-## 🚀 Key Projects
-- **Taxi Sharing Platform (2025–Present)**: Spring Boot microservices + Angular frontend + WebSocket + Kubernetes  
-- **Performance Optimization (Maison TPE, 2025)**: Reduced API response times via Redis caching & JVM tuning  
-- **Smart Parking Management System (Ongoing)**: IoT-enabled solution with predictive analytics  
+### Value Digital Services
+
+Enterprise Banking Applications
+
+- Spring Boot
+- Kafka
+- Angular
+- PostgreSQL
+- Security
+- Reporting
 
 ---
 
-## 🎓 Education
-- 🎓 Master in Advanced Robotics & AI — Ensit, Tunisia (2022–2024)  
-- 🎓 Master in Software Development — ISI, Tunisia (2022–2024)  
-- 🎓 Bachelor in Information Systems — ISET Radès, Tunisia (2019–2022)  
+### GSM Guide
+
+- Laravel
+- Angular
+- Flutter
+- Cloud Deployments
 
 ---
 
-## 🏅 Certifications
-- AWS Certified Cloud Practitioner  
-- Microsoft Certified: Azure Fundamentals (AZ-900)  
-- Microsoft Certified: Security, Compliance & Identity Fundamentals  
-- Junior Cybersecurity Analyst — Cisco  
-- Ethical Hacker — Cisco  
-- IBM Advanced Project Management Certificate  
- 
+# 🚀 Featured Projects
+
+## 🚕
+
+Taxi Sharing Platform
+
+Distributed microservices platform featuring:
+
+- Spring Cloud
+- Kafka
+- Redis
+- PostgreSQL
+- Docker
+- Kubernetes
+- JWT Security
+- API Gateway
+- Eureka Discovery
+
 ---
 
-## 📊 GitHub Stats
+## 🅿 Smart Parking
+
+Cloud-native parking reservation platform
+
+Technologies:
+
+- Spring Boot
+- PostgreSQL
+- Docker
+- Redis
+- Angular
+
+---
+
+## ⚡ Performance Optimization
+
+Backend optimization
+
+- Redis Caching
+- JVM Tuning
+- SQL Optimization
+- Connection Pooling
+- Monitoring
+
+---
+
+# 🎓 Education
+
+🎓 Master's in Advanced Robotics & AI
+
+ENSIT
+
+---
+
+🎓 Master's in Software Development
+
+ISI
+
+---
+
+🎓 Bachelor's in Information Systems
+
+ISET Radès
+
+---
+
+# 🏆 Certifications
+
+- Microsoft Azure Fundamentals
+- Microsoft Security Fundamentals
+- AWS Cloud Practitioner
+- Cisco Ethical Hacker
+- Cisco Cybersecurity Analyst
+- IBM Project Management
+
+---
+
+# 📈 GitHub Statistics
+
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=haithemmihoubi&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithemmihoubi&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haithemmihoubi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithemmihoubi&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=haithemmihoubi&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-mihoubi-773b01191/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/haithemmihoubi)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/haithemmihoubi)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://haithemmihoubi.hashnode.dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haithem.mihoubi.pro@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=21653440357)  
-
----
-
-## ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithemmihoubi&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haithemmihoubi&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/haithemmihoubi/haithemmihoubi/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/haithem-mihoubi-773b01191">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/haithemmihoubi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:haithem.mihoubi.pro@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://haithemmihoubi.hashnode.dev">
+<img src="https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/haithemmihoubi">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes
+- System Design
+- AI Engineering
+- Distributed Systems
+- Cloud Architecture
+- Platform Engineering
+
+---
+
+# 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and starring my repositories.
+
+</div>
